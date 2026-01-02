@@ -1,4 +1,5 @@
 🛡️ CryptShell : Chiffrement & Suppression Sécurisée
+
 Présentation du projet
 
 SafeCrypt-Shell est un script Bash automatisé permettant de sécuriser vos données sensibles via un chiffrement de niveau industriel. Contrairement à une simple protection par mot de passe, cet outil combine le chiffrement AES-256, l'archivage intelligent et la suppression définitive (shredding) pour garantir qu'aucune trace des fichiers originaux ne subsiste sur le disque après traitement.
